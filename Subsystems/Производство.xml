@@ -14,7 +14,11 @@
 			<IncludeInCommandInterface>true</IncludeInCommandInterface>
 			<Explanation/>
 			<Picture/>
-			<Content/>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.Кондитер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Производство</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Рецепт</xr:Item>
+			</Content>
 		</Properties>
 		<ChildObjects/>
 	</Subsystem>

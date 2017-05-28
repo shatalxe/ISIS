@@ -121,6 +121,20 @@
 			<Subsystem>Склад</Subsystem>
 			<Subsystem>Производство</Subsystem>
 			<Subsystem>Продажа</Subsystem>
+			<Subsystem>Администрирование</Subsystem>
+			<Role>Администратор</Role>
+			<Role>Кладовщик</Role>
+			<Role>Кондитер</Role>
+			<Role>Продавец</Role>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>СкладыМагазины</Catalog>
+			<Catalog>Пользователи</Catalog>
+			<Catalog>Рецепт</Catalog>
+			<Document>Оприходывание</Document>
+			<Document>Заказ</Document>
+			<Document>Производство</Document>
+			<Document>ПеремещениеТоваров</Document>
+			<Document>Продажа</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
